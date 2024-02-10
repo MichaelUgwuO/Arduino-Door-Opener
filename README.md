@@ -52,4 +52,4 @@ This project demonstrates how to create a simple RFID-based lock control system 
 
 ## Contributing
 
-Feel free to fork this project and submit pull requests with improvements or report any issues you encounter.
+Feel free to fork this project and submit pull requests with improvements or report any issues you encounter to me at michael.ugwu@hotmail.com.
